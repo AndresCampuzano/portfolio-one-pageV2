@@ -146,10 +146,9 @@ ul li:hover {
 
 .footer i {
   font-size: 50px;
-  color: rgb(92, 92, 92);
   cursor: pointer;
 }
 
 .footer i:hover {
-  color: rgb(73, 73, 73);
+  color: #a18ba8;
 }
